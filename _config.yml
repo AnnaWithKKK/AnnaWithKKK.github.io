@@ -17,7 +17,10 @@ title: AnnaK's Blog
 author: Kevin
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  没房 没车 没老婆 主职跑腿 兼职吹水
+  有房（租的） 
+  有车（两轮） 
+  有（过）老婆 
+  主职跑腿 兼职吹水
 url:  # the base hostname & protocol for your site, e.g. http://example.com
 sitesearchurl: .github.io
 baseurl: "" # the subpath of your site, e.g. /blog
